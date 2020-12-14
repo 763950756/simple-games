@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "30e6a9ec-fb0f-4147-9df5-69924fdd86fa",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/simple-shooting/scripts/AutoDestory.js",
+    "importerSettings": 4
+  }
+}

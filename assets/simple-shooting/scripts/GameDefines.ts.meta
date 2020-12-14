@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2e8a9f31-e1ae-4825-a828-258283f5c284",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/simple-shooting/scripts/GameDefines.js",
+    "importerSettings": 4
+  }
+}

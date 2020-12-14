@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "grenade",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 80,
+      "height": 80
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 80,
+      "height": 80
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883@6c48a"
+  }
+}

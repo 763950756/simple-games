@@ -1,0 +1,22 @@
+2020-12-14 16:22:41-log: [Package] Migrate: engine@Cocos Creator(1.0.3)
+2020-12-14 16:22:41-log: [Package] Migrate: builder@Cocos Creator(1.2.5)
+2020-12-14 16:22:41-log: [Package] Migrate: builder@Cocos Creator(1.2.6)
+2020-12-14 16:22:41-log: [Package] menu@1.0.0 enable
+2020-12-14 16:22:41-log: [Package] profile@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] messages@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] program@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] device@1.0.1 enable
+2020-12-14 16:22:42-log: [Package] ui-kit@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] tester@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] preferences@1.0.0 enable
+2020-12-14 16:22:42-log: Setup mods mgr.: 441.748ms
+2020-12-14 16:22:42-log: [Package] engine@1.0.3 enable
+2020-12-14 16:22:42-log: [Package] asset-db@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] console@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] scene@1.0.0 enable
+2020-12-14 16:22:42-log: [Package] extension@3.0.0 enable
+2020-12-14 16:22:42-log: [Package] project@1.0.1 enable
+2020-12-14 16:22:42-log: [Package] about@1.0.0 enable
+2020-12-14 16:22:43-log: [Package] server@1.0.0 enable
+2020-12-14 16:22:43-warn: Server: Port 7456 is occupied
+2020-12-14 16:22:43-log: [Package] utils@1.0.0 enable

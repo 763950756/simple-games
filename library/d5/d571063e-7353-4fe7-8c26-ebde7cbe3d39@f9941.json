@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "squareGreen",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 19,
+      "height": 26
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 19,
+      "height": 26
+    },
+    "rotated": false,
+    "capInsets": [
+      6,
+      16,
+      6,
+      6
+    ],
+    "texture": "d571063e-7353-4fe7-8c26-ebde7cbe3d39@6c48a"
+  }
+}

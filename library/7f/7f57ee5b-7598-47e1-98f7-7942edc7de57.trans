@@ -1,0 +1,7 @@
+{
+    "resolveMap": {
+        "./Bullet": "Bullet.ts",
+        "./GameDefines": "GameDefines.ts",
+        "./Grenade": "Grenade.ts"
+    }
+}

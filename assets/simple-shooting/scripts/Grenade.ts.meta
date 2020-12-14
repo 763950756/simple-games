@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "82dbeffc-f4e2-4c8b-9da6-eac7dfba3d73",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/simple-shooting/scripts/Grenade.js",
+    "importerSettings": 4
+  }
+}

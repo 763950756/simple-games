@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shadedLight06",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 75,
+      "height": 61
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 75,
+      "height": 61
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@6c48a"
+  }
+}

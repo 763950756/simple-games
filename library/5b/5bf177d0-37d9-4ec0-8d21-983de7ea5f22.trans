@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "./ShootingPlayerController": "ShootingPlayerController.ts",
+        "./GameDefines": "GameDefines.ts"
+    }
+}

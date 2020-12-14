@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HP",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 29,
+      "width": 454,
+      "height": 59
+    },
+    "offset": {
+      "x": 0,
+      "y": 55
+    },
+    "originalSize": {
+      "width": 454,
+      "height": 227
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "16d999f2-be6a-4dda-ac0b-df9289e26026@6c48a"
+  }
+}

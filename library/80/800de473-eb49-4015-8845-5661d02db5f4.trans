@@ -1,0 +1,6 @@
+{
+    "resolveMap": {
+        "./PlayerController": "PlayerController.ts",
+        "./GameDefines": "GameDefines.ts"
+    }
+}

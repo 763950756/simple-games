@@ -1,0 +1,5 @@
+{
+    "resolveMap": {
+        "./GameDefines": "GameDefines.ts"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "96d85146-ca46-4ef5-85d2-e65ef09ce9cc",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/simple-run/scripts/CameraFollow.js",
+    "importerSettings": 4
+  }
+}
